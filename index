@@ -1,0 +1,1201 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-style-mode" content="1"> <!-- 0 == light, 1 == dark -->
+
+	<title>Avrupa'nın En İyi İptv Serveri | CİX iPTV</title>
+	<meta name="keywords" content="iptv, iptv test, iptv satın al, iptv server, cix iptv, iptv al" />
+	<meta name="description" content="Cix iptv olarak tüm müşterilerimiz kesintisiz iptv hizmeti sunuyoruz. İptv satın almadan önce 24 saatlik iptv test yayını alabilirsiniz." />
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+	<!-- CSS ============================================ -->
+	<link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/plugins/animation.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/whatsapp.css">
+	<link rel="stylesheet" href="assets/css/plugins/feature.css">
+	<link rel="stylesheet" href="assets/css/plugins/magnify.min.css">
+	<link rel="stylesheet" href="assets/css/plugins/slick.css">
+	<link rel="stylesheet" href="assets/css/plugins/slick-theme.css">
+	<link rel="stylesheet" href="assets/css/plugins/lightbox.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QMN0NXSMM5">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QMN0NXSMM5');
+</script>
+</head>
+
+<body>
+	<main class="page-wrapper">
+		<header class="rainbow-header header-default header-left-align header-transparent header-sticky">
+			<div class="container position-relative">
+				<div class="row align-items-center">
+					<div class="col-lg-9 col-md-6 col-4 position-static">
+						<div class="header-left d-flex">
+							<div class="logo">
+								<a href="index.php">
+									<img class="logo-light" src="assets/images/logo/logo.png" alt="Corporate Logo">
+									<img class="logo-dark" src="assets/images/logo/logo-dark.png" alt="Corporate Logo">
+								</a>
+							</div>
+							<nav class="mainmenu-nav d-none d-lg-block">
+								<ul class="mainmenu">
+									<li><a href="index.php">Anasayfa</a></li>
+									<li class="has-droupdown has-menu-child-item"><a href="#">İptv Satın Al</a>
+										<ul class="submenu">
+											<li><a href="iptv-satin-al.php">Türkiye Paketlerimiz</a></li>
+											<li><a href="avrupa-fiyatlari.php">Avrupa Paketlerimiz</a></li>
+										</ul>
+									</li>
+									<li><a href="sikca-sorulan-sorular.php">S. S. Sorular</a></li>
+
+									<li class="with-megamenu has-menu-child-item"><a href="#">Kurulumlar</a>
+										<div class="rainbow-megamenu">
+											<div class="wrapper">
+												<div class="row row--0">
+													<div class="col-lg-3 single-mega-item">
+														<ul class="mega-menu-item">
+															<li><a href="iptv-smarters.php">Android Telefon</a></li>
+															<li><a href="smarters-player-lite.php">Apple Telefon</a></li>
+															<li><a href="iptv-smarters-pro.php">Android Televizyon</a></li>
+															<li><a href="smart-iptv-kurulumu.php">Smart İptv</a></li>
+															<li><a href="ss-iptv-kurulumu.php">SS İptv</a></li>
+															<li><a href="iptv-smarters-player-kurulumu.php">İptv Smarters Player</a></li>
+															<li><a href="net-iptv-kurulumu.php">Net İptv</a></li>
+														</ul>
+													</div>
+													<div class="col-lg-3 single-mega-item">
+														<ul class="mega-menu-item">
+															<li><a href="set-iptv-kurulumu.php">Set İptv</a></li>
+															<li><a href="bilgisayar-kurulumu.php">Bilgisayar Kurulumu</a></li>
+															<li><a href="xtream-iptv-kurulumu.php">Uydu Cihazları</a></li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li> 
+									<li><a href="iletisim.php">İletişim</a></li>
+									<li><a href="iptv-test-yayini.php">Test Al</a></li>								</ul>
+
+							</nav>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-8">
+						<div class="header-right">
+							<div class="header-btn">
+								<a class="btn-default btn-small" target="_blank" href="https://wa.me/905319485083?text=Merhaba%20iptv%20satin%20almak%20istiyorum">SATIN AL</a>
+							</div>
+
+							<!-- Start Mobile-Menu-Bar -->
+							<div class="mobile-menu-bar ml--5 d-block d-lg-none">
+								<div class="hamberger">
+									<button class="hamberger-button">
+										<i class="feather-menu"></i>
+									</button>
+								</div>
+							</div>
+							<!-- Start Mobile-Menu-Bar -->
+
+							<!-- Start Switcher Area  -->
+							<div id="my_switcher" class="my_switcher">
+								<ul>
+									<li>
+										<a href="javascript: void(0);" data-theme="light" class="setColor light">
+											<img class="sun-image" src="assets/images/icons/sun-01.svg" alt="Sun images">
+										</a>
+									</li>
+									<li>
+										<a href="javascript: void(0);" data-theme="dark" class="setColor dark">
+											<img class="Victor Image" src="assets/images/icons/vector.svg" alt="Vector Images">
+										</a>
+									</li>
+								</ul>
+							</div>
+							<!-- Start Switcher Area  -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div class="popup-mobile-menu">
+			<div class="inner">
+				<div class="header-top">
+					<div class="logo">
+						<a href="index.html">
+							<img class="logo-light" src="assets/images/logo/logo.png" alt="Corporate Logo">
+							<img class="logo-dark" src="assets/images/logo/logo-dark.png" alt="Corporate Logo">
+						</a>
+					</div>
+					<div class="close-menu">
+						<button class="close-button">
+							<i class="feather-x"></i>
+						</button>
+					</div>
+				</div>
+				<ul class="mainmenu">
+					<li><a href="index.php">Anasayfa</a></li>
+									<li class="has-droupdown has-menu-child-item"><a href="#">İptv Satın Al</a>
+										<ul class="submenu">
+											<li><a href="iptv-satin-al.php">Türkiye Paketlerimiz</a></li>
+											<li><a href="avrupa-fiyatlari.php">Avrupa Paketlerimiz</a></li>
+										</ul>
+									</li>
+									<li><a href="sikca-sorulan-sorular.php">S. S. Sorular</a></li>
+
+									<li class="with-megamenu has-menu-child-item"><a href="#">Kurulumlar</a>
+										<div class="rainbow-megamenu">
+											<div class="wrapper">
+												<div class="row row--0">
+													<div class="col-lg-3 single-mega-item">
+														<ul class="mega-menu-item">
+															<li><a href="iptv-smarters.php">Android Telefon</a></li>
+															<li><a href="smarters-player-lite.php">Apple Telefon</a></li>
+															<li><a href="iptv-smarters-pro.php">Android Televizyon</a></li>
+															<li><a href="smart-iptv-kurulumu.php">Smart İptv</a></li>
+															<li><a href="ss-iptv-kurulumu.php">SS İptv</a></li>
+															<li><a href="iptv-smarters-player-kurulumu.php">İptv Smarters Player</a></li>
+															<li><a href="net-iptv-kurulumu.php">Net İptv</a></li>
+														</ul>
+													</div>
+													<div class="col-lg-3 single-mega-item">
+														<ul class="mega-menu-item">
+															<li><a href="set-iptv-kurulumu.php">Set İptv</a></li>
+															<li><a href="bilgisayar-kurulumu.php">Bilgisayar Kurulumu</a></li>
+															<li><a href="xtream-iptv-kurulumu.php">Uydu Cihazları</a></li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</li> 
+									<li><a href="iletisim.php">İletişim</a></li>
+									<li><a href="iptv-test-yayini.php">Test Al</a></li>				</ul>
+			</div>
+		</div>
+
+		<!-- Start Theme Style  -->
+		<div>
+			<div class="rainbow-gradient-circle"></div>
+			<div class="rainbow-gradient-circle theme-pink"></div>
+		</div>
+		<!-- End Theme Style  -->
+
+
+
+		<div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--18" data-black-overlay="7">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="inner text-center">
+							<h1 class="title display-one">Avrupanın En İyi <br> <span
+								class="theme-gradient">İptv Serveri</span> &amp; <span
+								class="theme-gradient">Cix İptv</span></h1>
+								<p class="description">Smart IPTV, SS IPTV, 
+								NET IPTV, SET IPTV UYGULAMALARI VE MAG CİHAZLARI UYUMLU</p>
+								<div class="button-group">
+									<a class="btn-default btn-medium btn-icon" href="https://wa.me/905319485083">İptv Satın Al<i
+										class="feather-arrow-right"></i>
+									</a>
+									<a class="btn-default btn-medium btn-icon" href="https://wa.me/905319485083">İptv Test Al <i
+										class="feather-arrow-right"></i>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="rainbow-service-area rainbow-section-gap ">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+								<h4 class="subtitle ">
+									<span class="theme-gradient">KALİTE VE GÜVENCENİN TEK ADRESİ CİX İPTV</span>
+								</h4>
+								<h2 class="title w-600 mb--20">NEDEN CİX İPTV TERCİH ETMELİYİM?</h2>
+								<p class="description b1">Her gün yenilenen içerik ve kaliteli yayın ile size en iyi hizmeti sunuyoruz.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="row row--15 service-wrapper">
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
+							<div class="service service__style--2 text-center">
+								<div class="inner">
+									<div class="image">
+										<img src="assets/images/services/futbol.png" alt="card Images">
+									</div>
+									<div class="content">
+										<h4 class="title">
+											<a href="#">Spor Etkinlikleri</a>
+										</h4>
+										<p class="description b1 color-gray mb--0">cix iptv olarak bütün spor aktivitelerini müşterilerimize sunmaktayız. Futbol, basketbol, voleybol ve daha fazlası.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+							<div class="service service__style--2 text-center">
+								<div class="inner">
+									<div class="image">
+										<img src="assets/images/services/film.png" alt="card Images">
+									</div>
+									<div class="content">
+										<h4 class="title">
+											<a href="#">Güncel Filmler ve Diziler</a>
+										</h4>
+										<p class="description b1 color-gray mb--0">cix iptv olarak bütün film ve dizileri günlük olarak güncellemekteyiz. Müşterilerimize en iyi hizmeti vermek için elimizden geleni yapıyoruz.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="200">
+							<div class="service service__style--2 text-center">
+								<div class="inner">
+									<div class="image">
+										<img src="assets/images/services/dunya.png" alt="card Images">
+									</div>
+									<div class="content">
+										<h4 class="title">
+											<a href="#">Tüm Ülke Kanalları</a>
+										</h4>
+										<p class="description b1 color-gray mb--0">Tüm dünya kanalları cix iptv ile parmaklarınızın ucunda</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="rainbow-pricing-area rainbow-section-gap">
+				<div class="container">
+					<div class="row mb--40 mb_sm--0">
+						<div class="col-lg-12">
+							<div class="section-title text-center" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">
+								<h4 class="subtitle "><span class="theme-gradient">CİX İPTV FİYAT</span></h4>
+								<h2 class="title w-600 mb--20">Türkiye İptv Paketleri</h2>
+							</div>
+						</div>
+					</div>
+					<div class="row row--30">
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="rainbow-pricing">
+								<div class="pricing-table-inner">
+									<div class="pricing-header">
+										<h4 class="title">3 AYLIK</h4>
+										<div class="pricing">
+											<div class="price-wrapper"><span class="currency">₺</span><span
+												class="price">350</span></div><span class="subtitle">3 aylık</span>
+											</div>
+										</div>
+										<div class="pricing-body">
+											<ul class="list-style--1">
+												<li><i class="feather-check"></i> Spor Kanalları</li>
+												<li><i class="feather-check"></i> Sinema Kanalları</li>
+												<li><i class="feather-check"></i> Belgesel Kanalları</li>
+												<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+												<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+											</ul>
+										</div>
+										<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%203%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-6 col-12">
+								<div class="rainbow-pricing active">
+									<div class="pricing-table-inner">
+										<div class="pricing-header">
+											<h4 class="title">6 AYLIK</h4>
+											<div class="pricing">
+												<div class="price-wrapper"><span class="currency">₺</span><span
+													class="price">475</span></div><span class="subtitle">6 aylık</span>
+												</div>
+											</div>
+											<div class="pricing-body">
+												<ul class="list-style--1">
+													<li><i class="feather-check"></i> Spor Kanalları</li>
+													<li><i class="feather-check"></i> Sinema Kanalları</li>
+													<li><i class="feather-check"></i> Belgesel Kanalları</li>
+													<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+													<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+												</ul>
+											</div>
+											<div class="pricing-footer"><a class="btn-default" href="https://wa.me/905319485083?text=Merhaba%206%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-6 col-12">
+									<div class="rainbow-pricing">
+										<div class="pricing-table-inner">
+											<div class="pricing-header">
+												<h4 class="title">12 AYLIK</h4>
+												<div class="pricing">
+													<div class="price-wrapper"><span class="currency">₺</span><span
+														class="price">850</span></div><span class="subtitle">12 aylık</span>
+													</div>
+												</div>
+												<div class="pricing-body">
+													<ul class="list-style--1">
+														<li><i class="feather-check"></i> Spor Kanalları</li>
+														<li><i class="feather-check"></i> Sinema Kanalları</li>
+														<li><i class="feather-check"></i> Belgesel Kanalları</li>
+														<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+														<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+													</ul>
+												</div>
+												<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%2012%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+												</div>
+												<br>
+											</div>
+											<br>
+										</div>
+									</div>
+								</div>
+								<div class="row row--30">
+									<div class="col-lg-4 col-md-6 col-12">
+										<div class="rainbow-pricing">
+											<div class="pricing-table-inner">
+												<div class="pricing-header">
+													<h4 class="title">15 AYLIK</h4>
+													<div class="pricing">
+														<div class="price-wrapper"><span class="currency">₺</span><span
+															class="price">1000</span></div><span class="subtitle">15 aylık</span>
+														</div>
+													</div>
+													<div class="pricing-body">
+														<ul class="list-style--1">
+															<li><i class="feather-check"></i> Spor Kanalları</li>
+															<li><i class="feather-check"></i> Sinema Kanalları</li>
+															<li><i class="feather-check"></i> Belgesel Kanalları</li>
+															<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+															<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+														</ul>
+													</div>
+													<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%2015%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-6 col-12">
+											<div class="rainbow-pricing active">
+												<div class="pricing-table-inner">
+													<div class="pricing-header">
+														<h4 class="title">24 AYLIK</h4>
+														<div class="pricing">
+															<div class="price-wrapper"><span class="currency">₺</span><span
+																class="price">1500</span></div><span class="subtitle">24 aylık</span>
+															</div>
+														</div>
+														<div class="pricing-body">
+															<ul class="list-style--1">
+																<li><i class="feather-check"></i> Spor Kanalları</li>
+																<li><i class="feather-check"></i> Sinema Kanalları</li>
+																<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+															</ul>
+														</div>
+														<div class="pricing-footer"><a class="btn-default" href="https://wa.me/905319485083?text=Merhaba%2024%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="col-lg-4 col-md-6 col-12">
+												<div class="rainbow-pricing">
+													<div class="pricing-table-inner">
+														<div class="pricing-header">
+															<h4 class="title">12 AYLIK ÇİFT GİRİŞ</h4>
+															<div class="pricing">
+																<div class="price-wrapper"><span class="currency">₺</span><span
+																	class="price">1500</span></div><span class="subtitle">2 tane 12 aylık</span>
+																</div>
+															</div>
+															<div class="pricing-body">
+																<ul class="list-style--1">
+																	<li><i class="feather-check"></i> Spor Kanalları</li>
+																	<li><i class="feather-check"></i> Sinema Kanalları</li>
+																	<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																	<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																	<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																</ul>
+															</div>
+															<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%20cift%20girisli%2012%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="rainbow-pricing-area rainbow-section-gap">
+										<div class="container">
+											<div class="row mb--40 mb_sm--0">
+												<div class="col-lg-12">
+													<div class="section-title text-center" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">
+														<h4 class="subtitle "><span class="theme-gradient">CİX İPTV FİYAT</span></h4>
+														<h2 class="title w-600 mb--20">Avrupa İptv Paketleri</h2>
+													</div>
+												</div>
+											</div>
+											<div class="row row--30">
+												<div class="col-lg-4 col-md-6 col-12">
+													<div class="rainbow-pricing">
+														<div class="pricing-table-inner">
+															<div class="pricing-header">
+																<h4 class="title">3 AYLIK</h4>
+																<div class="pricing">
+																	<div class="price-wrapper"><span class="currency">€</span><span
+																		class="price">30</span></div><span class="subtitle">3 aylık</span>
+																	</div>
+																</div>
+																<div class="pricing-body">
+																	<ul class="list-style--1">
+																		<li><i class="feather-check"></i> Spor Kanalları</li>
+																		<li><i class="feather-check"></i> Sinema Kanalları</li>
+																		<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																		<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																		<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																	</ul>
+																</div>
+																<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%203%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																</div>
+															</div>
+														</div>
+													</div>
+													<div class="col-lg-4 col-md-6 col-12">
+														<div class="rainbow-pricing active">
+															<div class="pricing-table-inner">
+																<div class="pricing-header">
+																	<h4 class="title">6 AYLIK</h4>
+																	<div class="pricing">
+																		<div class="price-wrapper"><span class="currency">€</span><span
+																			class="price">40</span></div><span class="subtitle">6 aylık</span>
+																		</div>
+																	</div>
+																	<div class="pricing-body">
+																		<ul class="list-style--1">
+																			<li><i class="feather-check"></i> Spor Kanalları</li>
+																			<li><i class="feather-check"></i> Sinema Kanalları</li>
+																			<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																			<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																			<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																		</ul>
+																	</div>
+																	<div class="pricing-footer"><a class="btn-default" href="https://wa.me/905319485083?text=Merhaba%206%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="col-lg-4 col-md-6 col-12">
+															<div class="rainbow-pricing">
+																<div class="pricing-table-inner">
+																	<div class="pricing-header">
+																		<h4 class="title">12 AYLIK</h4>
+																		<div class="pricing">
+																			<div class="price-wrapper"><span class="currency">€</span><span
+																				class="price">70</span></div><span class="subtitle">12 aylık</span>
+																			</div>
+																		</div>
+																		<div class="pricing-body">
+																			<ul class="list-style--1">
+																				<li><i class="feather-check"></i> Spor Kanalları</li>
+																				<li><i class="feather-check"></i> Sinema Kanalları</li>
+																				<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																				<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																				<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																			</ul>
+																		</div>
+																		<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%2012%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																		</div>
+																		<br>
+																	</div>
+																	<br>
+																</div>
+															</div>
+														</div>
+														<div class="row row--30">
+															<div class="col-lg-4 col-md-6 col-12">
+																<div class="rainbow-pricing">
+																	<div class="pricing-table-inner">
+																		<div class="pricing-header">
+																			<h4 class="title">15 AYLIK</h4>
+																			<div class="pricing">
+																				<div class="price-wrapper"><span class="currency">€</span><span
+																					class="price">80</span></div><span class="subtitle">15 aylık</span>
+																				</div>
+																			</div>
+																			<div class="pricing-body">
+																				<ul class="list-style--1">
+																					<li><i class="feather-check"></i> Spor Kanalları</li>
+																					<li><i class="feather-check"></i> Sinema Kanalları</li>
+																					<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																					<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																					<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																				</ul>
+																			</div>
+																			<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%2015%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-lg-4 col-md-6 col-12">
+																	<div class="rainbow-pricing active">
+																		<div class="pricing-table-inner">
+																			<div class="pricing-header">
+																				<h4 class="title">24 AYLIK</h4>
+																				<div class="pricing">
+																					<div class="price-wrapper"><span class="currency">€</span><span
+																						class="price">120</span></div><span class="subtitle">24 aylık</span>
+																					</div>
+																				</div>
+																				<div class="pricing-body">
+																					<ul class="list-style--1">
+																						<li><i class="feather-check"></i> Spor Kanalları</li>
+																						<li><i class="feather-check"></i> Sinema Kanalları</li>
+																						<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																						<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																						<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																					</ul>
+																				</div>
+																				<div class="pricing-footer"><a class="btn-default" href="https://wa.me/905319485083?text=Merhaba%2024%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="col-lg-4 col-md-6 col-12">
+																		<div class="rainbow-pricing">
+																			<div class="pricing-table-inner">
+																				<div class="pricing-header">
+																					<h4 class="title">12 AYLIK ÇİFT GİRİŞ</h4>
+																					<div class="pricing">
+																						<div class="price-wrapper"><span class="currency">€</span><span
+																							class="price">120</span></div><span class="subtitle">2 tane 12 aylık</span>
+																						</div>
+																					</div>
+																					<div class="pricing-body">
+																						<ul class="list-style--1">
+																							<li><i class="feather-check"></i> Spor Kanalları</li>
+																							<li><i class="feather-check"></i> Sinema Kanalları</li>
+																							<li><i class="feather-check"></i> Belgesel Kanalları</li>
+																							<li><i class="feather-check"></i> Güncel Film ve Dizi</li>
+																							<li><i class="feather-check"></i> 45 Binden Fazla İçerik</li>
+																						</ul>
+																					</div>
+																					<div class="pricing-footer"><a class="btn-default btn-border" href="https://wa.me/905319485083?text=Merhaba%20cift%20girisli%2012%20aylik%20iptv%20almak%20istiyorum">Satın Al</a>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="rainbow-counterup-area rainbow-section-gap">
+																<div class="container">
+																	<div class="row">
+																		<div class="col-lg-12">
+																			<div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+																				<h4 class="subtitle ">
+																					<span class="theme-gradient">CİX İPTV İÇERİKLER</span>
+																				</h4>
+																				<h2 class="title w-600 mb--20">İÇERİK SAYILARIMIZ</h2>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="row">
+																		<div class="col-lg-3 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
+																			<div class="count-box counter-style-1 text-center">
+																				<div>
+																					<div class="count-number">
+																						<span class="counter">12000</span>+
+																					</div>
+																				</div>
+																				<h5 class="title">Canlı Kanal Sayımız</h5>
+																			</div>
+																		</div>
+																		<div class="col-lg-3 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+																			<div class="count-box counter-style-1 text-center">
+																				<div>
+																					<div class="count-number">
+																						<span class="counter">20000</span>+
+																					</div>
+																				</div>
+																				<h5 class="title">Film Sayımız</h5>
+																			</div>
+																		</div>
+																		<div class="col-lg-3 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="200">
+																			<div class="count-box counter-style-1 text-center">
+																				<div>
+																					<div class="count-number">
+																						<span class="counter">1200</span>+
+																					</div>
+																				</div>
+																				<h5 class="title">Dizi Sayımız</h5>
+																			</div>
+																		</div>
+																		<div class="col-lg-3 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="300">
+																			<div class="count-box counter-style-1 text-center">
+																				<div>
+																					<div class="count-number">
+																						<span class="counter">50</span>+
+																					</div>
+																				</div>
+																				<h5 class="title">Sunucu Sayımız</h5>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="rainbow-accordion-area rainbow-section-gap">
+																<div class="container">
+																	<div class="row">
+																		<div class="col-lg-10 offset-lg-1">
+																			<div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+																				<h4 class="subtitle "><span class="theme-gradient">CİX İPTV</span></h4>
+																				<h2 class="title w-600 mb--20">En sık sorulan sorular</h2>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="row mt--35 row--20">
+																		<div class="col-lg-10 offset-lg-1">
+																			<div class="rainbow-accordion-style  accordion">
+																				<div class="accordion" id="accordionExamplea">
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingOne">
+																							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+																								İPTV izlemek için internet hızım kaç mbps olmalıdır?
+																							</button>
+																						</h2>
+																						<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Iptv yayınlarını sorunsuz izleyebilmeniz için internet hızınız 10 megabitin üzerinde olmalıdır. İnternet hızınız 10 megabitin üzerinde olduğu sürece yayınlarda herhangi bir kesinti yaşamadan problemsiz şekilde izleyebilirsiniz.
+																							</div>
+																						</div>
+																					</div>
+
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingTwo">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																								Yayınları istediğim yerden izleyebilirmiyim?
+																							</button>
+																						</h2>
+																						<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Bilgisayar, cep telefonu veya akıllı televizyonunuzun olduğu her yerde yayınları izleyebilirsiniz. Yayınları sorunsuz izleyebilmek için internet hızınızın 10 megabitin üzerinde olması gerekmektedir. İnternet hızınız 10 megabitin üzerinde olduğu sürece kesintisiz izleyebilirsiniz.
+																							</div>
+																						</div>
+																					</div>
+
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingThree">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+																								Yayınlar kaç saniye geriden gelmektedir?
+																							</button>
+																						</h2>
+																						<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Tüm yayınlar, kesinti ve donmaların önüne geçilebilmesi için ortalama 30 ile 60 saniye geriden gelmektedir.
+																							</div>
+																						</div>
+																					</div>
+
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingFour">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+																								Ödemeyi yaptım hesabım ne zaman aktif olur?
+																							</button>
+																						</h2>
+																						<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Size uygun paketi talimatlara göre satın alıktan sonra kullanıcı bilgileriniz anında oluşturulur. Kullanıcı bilgilerinizi canlı destek ekibimize bağlanarak talep edebilirsiniz.
+																							</div>
+																						</div>
+																					</div>
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingFive">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+																								Para iadesi yapıyormusnuz?
+																							</button>
+																						</h2>
+																						<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Paket satın aldığınız günden itibaren 7 gün içerisinde iade hakkına sahipsiniz.
+																							</div>
+																						</div>
+																					</div>
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingSix">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+																								Kanallar güncelleniyor mu yoksa sabit mi kalıyor?
+																							</button>
+																						</h2>
+																						<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Kanallar bizim tarafımızdan devamlı güncellenmektedir. Bu işe başladığımızda 200 kanal var iken şuanda 45.000’i geçik kanalımız bulunmaktadır.
+																							</div>
+																						</div>
+																					</div>
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingEight">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+																								Ödemeyi yaptıktan sonra hesabım kapatılır mı?
+																							</button>
+																						</h2>
+																						<div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								2015 yılından beri bu işi yapmaktayız. Böyle bi sorunla karşılaştığınız anda WhatsApp hattımızdan destek alarak sorununuzu çözebilirsiniz.
+																							</div>
+																						</div>
+																					</div>
+																					<div class="accordion-item card">
+																						<h2 class="accordion-header card-header" id="headingNine">
+																							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+																								Neden derbi zamanı test vermiyorsunuz?
+																							</button>
+																						</h2>
+																						<div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExamplea">
+																							<div class="accordion-body card-body">
+																								Server'a saldırı riskini ortadan kaldırmak için.
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<!-- Start tab Style Three  -->
+															<div class="rainbow-tab-area rainbow-section-gap">
+																<div class="container">
+																	<div class="row mb--40">
+																		<div class="col-lg-12">
+																			<div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+																				<h4 class="subtitle ">
+																					<span class="theme-gradient">cix İptv</span>
+																				</h4>
+																				<h2 class="title w-600 mb--20">Cihaz Kurulumları</h2>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="row row--30 align-items-center">
+																		<div class="col-lg-12">
+																			<div class="rainbow-default-tab style-three">
+																				<ul class="nav nav-tabs tab-button" id="myTab" role="tablist">
+																					<li class="nav-item tabs__tab " role="presentation">
+																						<button class="nav-link active" id="service-tab" data-bs-toggle="tab" data-bs-target="#service" type="button" role="tab" aria-controls="service" aria-selected="true">Telefon</button>
+																					</li>
+																					<li class="nav-item tabs__tab " role="presentation">
+																						<button class="nav-link" id="about-tab" data-bs-toggle="tab" data-bs-target="#about" type="button" role="tab" aria-controls="about" aria-selected="false">Bilgisayar</button>
+																					</li>
+																					<li class="nav-item tabs__tab " role="presentation">
+																						<button class="nav-link" id="contact2-tab" data-bs-toggle="tab" data-bs-target="#contact2" type="button" role="tab" aria-controls="contact2" aria-selected="false">Televizyon</button>
+																					</li>
+																				</ul>
+
+																				<div class="rainbow-tab-content tab-content" id="myTabContent">
+																					<div class="tab-pane fade show active" id="service" role="tabpanel" aria-labelledby="service-tab">
+																						<div class="inner">
+																							<div class="row align-items-center row--30">
+																								<div class="col-lg-4">
+																									<div class="section-title">
+																										<h4 class="title">Telefonuma Nasıl Kurulum Yapabilirim?</h4>
+																										<p>Cihazınıza uygun olanı seçip aşamaları takip ederek rahatlıkla kurulumu yapabilirsiniz.</p>
+																										<div class="read-more"><a class="btn-default btn-small" href="#">Detaylı Anlatım</a></div>
+																									</div>
+																								</div>
+																								<div class="col-lg-8 mt_md--30 mt_sm--30">
+																									<div class="row row--15 mt_dec--30 service-wrapper">
+																										<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																											<div class="card-box card-style-1 text-left">
+																												<div class="inner">
+																													<div class="image"><a href="#"><img src="assets/images/services/android.png" alt="card Images"></a></div>
+																													<div class="content">
+																														<h4 class="title mb--20"><a href="#">Android Telefon</a></h4>
+																														<p class="description b1 color-gray mb--0">
+																															Android telefonunuz için nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																														</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																										<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																											<div class="card-box card-style-1 text-left">
+																												<div class="inner">
+																													<div class="image"><a href="#"><img src="assets/images/services/iphone.png" alt="card Images"></a></div>
+																													<div class="content">
+																														<h4 class="title mb--20"><a href="#">Apple Telefon</a></h4>
+																														<p class="description b1 color-gray mb--0">
+																															Apple telefonunuz için nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																														</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+
+																					<div class="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab">
+																						<div class="inner">
+																							<div class="row align-items-center row--30">
+																								<div class="col-lg-4">
+																									<div class="section-title">
+																										<h4 class="title">Bilgisayarıma Nasıl Kurulum Yapabilirim?</h4>
+																										<p>Cihazınıza uygun olanı seçip aşamaları takip ederek rahatlıkla kurulumu yapabilirsiniz.</p>
+																										<div class="read-more"><a class="btn-default btn-small" href="#">Detaylı Anlatım</a></div>
+																									</div>
+																								</div>
+																								<div class="col-lg-8 mt_md--30 mt_sm--30">
+																									<div class="row row--15 mt_dec--30 service-wrapper">
+																										<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																											<div class="card-box card-style-1 card-testimonial text-left">
+																												<div class="inner">
+																													<div class="image"><a href="#"><img src="assets/images/services/vlc-player.png" alt="card Images"></a></div>
+																													<div class="content">
+																														<h4 class="title mb--20"><a href="#">VLC Player</a></h4>
+																														<p class="description b1 color-gray mb--0">
+																															Bilgisayarınız için nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																														</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																										<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																											<div class="card-box card-style-1 card-testimonial text-left">
+																												<div class="inner">
+																													<div class="image"><a href="#"><img src="assets/images/services/smarters.png" alt="card Images"></a></div>
+																													<div class="content">
+																														<h4 class="title mb--20"><a href="#">İptv Smarters</a></h4>
+																														<p class="description b1 color-gray mb--0">
+																															Bilgisayarınız için nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																														</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+
+
+																					<div class="tab-pane fade" id="contact2" role="tabpanel" aria-labelledby="contact2-tab">
+																						<div class="inner">
+																							<div class="row align-items-center row--30">
+																								<div class="col-lg-4">
+																									<div class="section-title">
+																										<h4 class="title">Televizyonuma Nasıl Kurulum Yapabilirim?</h4>
+																										<p>Tv'nizin uygulama yükleme kısmına girininiz. iptv yazıp aratın, ve çıkan uygulamalarda;<br>
+																											<font color="red">Smart iptv</font></b> (ücretli uygulama) 5euro<br>
+																											<b><font color="red">Dublex iptv</font> ücretli uygulama<br>
+																												<b><font color="red">Ss iptv</font> ücretsiz uygulama<br>
+																													<b><font color="red">iptv smaters player</font> ücretsiz uygulama<br>
+																														<b><font color="red">Set iptv</font> (ücretli uygulama) 15euro<br>
+																															<b><font color="red">nET iptv</font> (ücretli uygulama) 6euro<br>
+																																Bu uygulamalardan biri varsa tv'niz iptv uyumlu demektir.
+																															</p>
+																														</div>
+																													</div>
+																													<div class="col-lg-8 mt_md--30 mt_sm--30">
+																														<div class="row row--15 mt_dec--30 service-wrapper">
+																															<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																																<div class="card-box card-style-1 card-testimonial text-left">
+																																	<div class="inner">
+																																		<div class="image"><a href="#"><img src="assets/images/services/smartiptv.png" alt="card Images"></a></div>
+																																		<div class="content">
+																																			<h4 class="title mb--20"><a href="#">Smart İptv Kurulumu</a></h4>
+																																			<p class="description b1 color-gray mb--0">
+																																				Smart Tv nizdeki Smart iptv uygulamasına nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																																			</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																																		</div>
+																																	</div>
+																																</div>
+																															</div>
+																															<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+																																<div class="card-box card-style-1 card-testimonial text-left">
+																																	<div class="inner">
+																																		<div class="image"><a href="#"><img src="assets/images/services/ssiptv.png" alt="card Images"></a></div>
+																																		<div class="content">
+																																			<h4 class="title mb--20"><a href="#">SS İptv Kurulumu</a></h4>
+																																			<p class="description b1 color-gray mb--0">
+																																				Smart Tv nizdeki SS iptv uygulamasına nasıl kurulum yapacağınızı yazımızı okuyarak rahatlıkla yapabilirsiniz.
+																																			</p><a class="btn-default btn-small" href="#">Detaylı Anlatım</a>
+																																		</div>
+																																	</div>
+																																</div>
+																															</div>
+																														</div>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+
+
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																				<!-- End tab Style Three  -->
+
+																					<div class="rainbow-contact-area rainbow-section-gap">
+																						<div class="container">
+																							<div class="row">
+																								<div class="col-lg-12 mb--40">
+																									<div class="section-title text-center" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
+																										<h4 class="subtitle "><span class="theme-gradient">İletişim Hattı</span></h4>
+																										<h2 class="title w-600 mb--20">Cix İptv İletişim Bilgileri</h2>
+																									</div>
+																								</div>
+																							</div>
+																							<div class="row row--15">
+																								<div class="col-lg-12">
+																									<div class="rainbow-contact-address mt_dec--30">
+																										<div class="row">
+																											<div class="col-lg-4 col-md-6 col-12">
+																												<div class="rainbow-address">
+																													<div class="icon">
+																														<i class="feather-headphones"></i>
+																													</div>
+																													<div class="inner">
+																														<h4 class="title">Whatsapp Telefon Numaramız</h4>
+																														<p><a href="https://wa.me/905319485083">+90 531 948 50 83</a></p>
+																													</div>
+																												</div>
+																											</div>
+																											<div class="col-lg-4 col-md-6 col-12">
+																												<div class="rainbow-address">
+																													<div class="icon">
+																														<i class="feather-mail"></i>
+																													</div>
+																													<div class="inner">
+																														<h4 class="title">Email Adresimiz</h4>
+																														<p><a href="/cdn-cgi/l/email-protection#345550595d5a745359555d581a575b59"><span class="__cf_email__" data-cfemail="26454f5e4f56525066414b474f4a0845494b">[email&#160;protected]</span></a></p>
+																													</div>
+																												</div>
+																											</div>
+																											<div class="col-lg-4 col-md-6 col-12">
+																												<div class="rainbow-address">
+																													<div class="icon">
+																														<i class="feather-map-pin"></i>
+																													</div>
+																													<div class="inner">
+																														<h4 class="title">Adres</h4>
+																														<p>İzmir, Çankaya</p>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																					<div class="phone-call cbh-phone cbh-green cbh-show  cbh-static" id="clbh_phone_div" style=""><a id="WhatsApp-button" href="https://wa.me/905319485083" target="_blank" class="phoneJs" title="WhatsApp"><div class="cbh-ph-circle"></div><div class="cbh-ph-circle-fill"></div><div class="cbh-ph-img-circle1"></div></a></div>
+
+																					<!-- Start Footer Area  -->
+																					<footer class="rainbow-footer footer-style-default variation-two">
+																						<div class="rainbow-callto-action clltoaction-style-default style-7">
+																							<div class="container">
+																								<div class="row row--0 align-items-center content-wrapper">
+																									<div class="col-lg-8 col-md-8">
+																										<div class="inner">
+																											<div class="content text-left">
+																												<div class="logo">
+																													<a href="index.html">
+																														<img class="logo-light" src="assets/images/logo/logo.png" alt="Corporate Logo">
+																														<img class="logo-dark" src="assets/images/logo/logo-dark.png" alt="Corporate Logo">
+																													</a>
+																												</div>
+																												<p class="subtitle" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">2015 yılından itibaren müşterilerimize en iyi hizmeti vermeyi amaç edindik. En kaliteli ve güncel yayınlarımızın tadını çıkarın.</p>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="col-lg-4 col-md-4" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">
+																										<div class="call-to-btn text-left mt_sm--20 text-lg-right">
+																											<a class="btn-default" href="https://wa.me/905319485083">İPTV SATIN AL
+																												<i class="feather-arrow-right"></i>
+																											</a>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						<div class="footer-top">
+																							<div class="container">
+																								<div class="row">
+																									<div class="col-lg-2 col-md-6 col-sm-6 col-12">
+																										<div class="rainbow-footer-widget">
+																											<h4 class="title">İptv Paketlerimiz</h4>
+																											<div class="inner">
+																												<ul class="footer-link link-hover">
+																													<li><a href="#">Türkiye Paketleri</a></li>
+																													<li><a href="#">Avrupa Paketleri</a></li>
+																												</ul>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="col-lg-2 col-md-6 col-sm-6 col-12">
+																										<div class="rainbow-footer-widget">
+																											<div class="widget-menu-top">
+																												<h4 class="title">Kurulumlar</h4>
+																												<div class="inner">
+																													<ul class="footer-link link-hover">
+																														<li><a href="#">Telefon Kurulumları</a></li>
+																														<li><a href="#">Bilgisayar Kurulumları</a></li>
+																														<li><a href="#">Televizyon Kurulumları</a></li>
+																														<li><a href="#">Uydu Cihazı Kurulumları</a></li>
+																													</ul>
+																												</div>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="col-lg-2 col-md-6 col-sm-6 col-12">
+																										<div class="rainbow-footer-widget">
+																											<h4 class="title">İçerikler</h4>
+																											<div class="inner">
+																												<ul class="footer-link link-hover">
+																													<li><a href="#">Spor Kanalları</a></li>
+																													<li><a href="#">Filmler</a></li>
+																													<li><a href="#">Diziler</a></li>
+																												</ul>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="col-lg-2 col-md-6 col-sm-6 col-12">
+																										<div class="rainbow-footer-widget">
+																											<h4 class="title">Diğer Sayfalar</h4>
+																											<div class="inner">
+																												<ul class="footer-link link-hover">
+																													<li><a href="#">S. S. Sorular</a></li>
+																													<li><a href="#">İletişim</a></li>
+																													<li><a href="#">Test Al</a></li>
+																												</ul>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+																										<div class="rainbow-footer-widget">
+																											<h4 class="title">Bizimle Kalın</h4>
+																											<div class="inner">
+																												<h6 class="subtitle">Binlerce müşterimize hizmet vermekten mutluluk duyoruz.</h6>
+																												<ul class="social-icon social-default justify-content-start">
+																													<li><a href="#">
+																														<i class="feather-facebook"></i>
+																													</a>
+																												</li>
+																												<li><a href="#">
+																													<i class="feather-twitter"></i>
+																												</a>
+																											</li>
+																											<li><a href="#">
+																												<i class="feather-instagram"></i>
+																											</a>
+																										</li>
+																										<li><a href="#">
+																											<i class="feather-linkedin"></i>
+																										</a>
+																									</li>
+																								</ul>
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</footer>
+																	<!-- End Footer Area  -->
+																	<!-- Start Copy Right Area  -->
+																	<div class="copyright-area copyright-style-one">
+																		<div class="container">
+																			<div class="row align-items-center">
+																				<div class="col-lg-6 col-md-8 col-sm-12 col-12">
+																					<div class="copyright-left">
+																						<ul class="ft-menu link-hover">
+																							<li>
+																								<a href="#">Gizlilik Politikası</a>
+																							</li>
+																							<li>
+																								<a href="#">Şartlar ve Koşullar</a>
+																							</li>
+																							<li>
+																								<a href="#">İletişime Geç</a>
+																							</li>
+																						</ul>
+																					</div>
+																				</div>
+																				<div class="col-lg-6 col-md-4 col-sm-12 col-12">
+																					<div class="copyright-right text-center text-lg-end">
+																						<p class="copyright-text">© CİX İPTV 2023</p>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- End Copy Right Area  -->
+																</main>
+																<!-- All Scripts  -->
+																<!-- Start Top To Bottom Area  -->
+																<div class="rainbow-back-top">
+																	<i class="feather-arrow-up"></i>
+																</div>
+																<!-- End Top To Bottom Area  -->
+    <!-- JS
+    	============================================ -->
+    	<!--Start of Tawk.to Script-->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/603d59c0385de407571b6899/1evnqd6id';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+    	<script src="assets/js/vendor/modernizr.min.js"></script>
+    	<script src="assets/js/vendor/jquery.min.js"></script>
+    	<script src="assets/js/vendor/bootstrap.min.js"></script>
+    	<script src="assets/js/vendor/popper.min.js"></script>
+    	<script src="assets/js/vendor/waypoint.min.js"></script>
+    	<script src="assets/js/vendor/wow.min.js"></script>
+    	<script src="assets/js/vendor/counterup.min.js"></script>
+    	<script src="assets/js/vendor/feather.min.js"></script>
+    	<script src="assets/js/vendor/sal.min.js"></script>
+    	<script src="assets/js/vendor/masonry.js"></script>
+    	<script src="assets/js/vendor/imageloaded.js"></script>
+    	<script src="assets/js/vendor/magnify.min.js"></script>
+    	<script src="assets/js/vendor/lightbox.js"></script>
+    	<script src="assets/js/vendor/slick.min.js"></script>
+    	<script src="assets/js/vendor/easypie.js"></script>
+    	<script src="assets/js/vendor/text-type.js"></script>
+    	<script src="assets/js/vendor/jquery.style.swicher.js"></script>
+    	<script src="assets/js/vendor/js.cookie.js"></script>
+    	<script src="assets/js/vendor/jquery-one-page-nav.js"></script>
+    	<!-- Main JS -->
+    	<script src="assets/js/main.js"></script>
+    </body>
+
+    </html>
